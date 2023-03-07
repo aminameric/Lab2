@@ -1,3 +1,5 @@
 # Lab2
 
-This is my test repository.
+Contributors:
+
+Amina Meric
